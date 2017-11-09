@@ -133,13 +133,13 @@ ul h4 {
 #menu {
 	font-family: Oswald, sans-serif;
 	position: absolute;
-	background: #2822CC repeat-x top left;
+	background: ##302c99 repeat-x top left;
 	right: 40px;
 	line-height: 60px;
 	border-top: solid 1px #2822CC;
 	top: 77px;
 	height: 60px;
-	border-bottom: solid 1px #705EE5;
+	border-bottom: solid 1px #1d1b5b;
 }
 
 #menu a {
